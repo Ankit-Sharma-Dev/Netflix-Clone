@@ -1,6 +1,6 @@
 # Netflix Clone 
 
-[https://ankit64604.github.io/Netflix-Clone/]
+[https://ghjhzv.csb.app/]
 
 
 **Description**
